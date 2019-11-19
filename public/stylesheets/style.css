@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: darkslategray;
+  background-color: black;
+  background-image: url('../images/gg2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+}
+
+a {
+  color: #00B7FF;
+}
+.main{
+  padding: 15px 0px;
+}
