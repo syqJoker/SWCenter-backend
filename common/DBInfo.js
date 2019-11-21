@@ -2,6 +2,6 @@ const dbName = "swcenter";
 const tableName = {
     user:"user"
 };
-export {
+module.exports =  {
     dbName,tableName
-    }
+}
